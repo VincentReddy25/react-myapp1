@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function App() {
   return (
-    <h1>Hello my world riya</h1>
+    <h1>Hello my world riya only riya</h1>
   )
 }
